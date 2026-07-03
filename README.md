@@ -2836,6 +2836,8 @@ Tools for managing customer support, IT service management, and helpdesk operati
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 - [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) 📇 ☁️ 🏠 - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations.
 - [tracegazer/invgate-service-desk-mcp](https://github.com/tracegazer/invgate-service-desk-mcp) [![tracegazer/invgate-service-desk-mcp MCP server](https://glama.ai/mcp/servers/tracegazer/invgate-service-desk-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tracegazer/invgate-service-desk-mcp) 🐍 ☁️ - MCP server for InvGate Service Desk: 96 tools across 11 domains (incidents, users, knowledge base, assets, custom fields, workflows, time tracking), read-only by default with opt-in writes.
+- - [webmilmind1/deskcrew-mcp](https://github.com/webmilmind1/deskcrew-mcp) 📇 ☁️ - Agent-native helpdesk where AI agents run support tickets over MCP and pay per action in USDC via [x402](https://x402.org). Search KB, create/triage tickets, draft/send replies; reads free, write/AI tools $0.02–$0.06 across 5 chains.
+
 
 ### 🌎 <a name="translation-services"></a>Translation Services
 
